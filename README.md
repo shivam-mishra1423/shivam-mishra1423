@@ -8,8 +8,15 @@
 
 ---
 
-<img align="right" alt="coding" width="350" 
-src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740&q=80">
+<!-- Animated Typing Effect -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Machine+Learning+Enthusiast;DSA+%7C+Competitive+Programming;Building+Cool+Projects&center=true&width=500&height=50">
+</p>
+
+---
+
+<img align="right" alt="coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech AIML Student  
@@ -20,11 +27,18 @@ src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/shivam-mishra-b47739279/" target="blank">
-<img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-height="30" width="40" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shivam-mishra-b47739279/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/shivam_mishra_munnu/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Shivam_Mishra_14/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
@@ -34,47 +48,50 @@ height="30" width="40" />
 
 #### 💻 Languages:
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
 </p>
 
 #### 🌐 Frontend:
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
 #### ⚙️ Backend & Tools:
 <p>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs,docker"/>
 </p>
 
 #### 🤖 Machine Learning:
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-mishra1423&show_icons=true&locale=en&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-mishra1423&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-mishra1423&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-mishra1423&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 Activity Graph:
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-mishra1423&theme=tokyo-night"/>
 </p>
 
 ---
 
 ### ☕ Support:
-<p>
+
+<p align="center">
 <a href="https://www.buymeacoffee.com/shivam-mishra1423">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
 </a>
