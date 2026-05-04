@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
+<!-- Animated Name with Gradient -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shivam+Mishra;Backend+Developer+🚀;Machine+Learning+Enthusiast+🤖" />
+</h1>
 
 <h3 align="center">
 🚀 Backend Developer | 🤖 Machine Learning Enthusiast <br>
@@ -8,20 +11,23 @@
 
 ---
 
-<!-- Animated Typing Effect -->
+<!-- Colorful Animated Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+APIs+%26+Scalable+Systems&center=true&width=500&height=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
+<!-- Coding GIF -->
 <img align="right" alt="coding" width="350"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech AIML Student  
 - 💡 Focused on **Backend Development & AI/ML**  
-- ⚙️ Skilled in building **APIs using FastAPI, Django & Flask**  
+- ⚙️ Skilled in **FastAPI, Django & Flask**  
 - 🔥 Strong in **DSA & Competitive Programming**  
 - 🚀 Passionate about scalable backend systems  
 
@@ -31,11 +37,11 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shivam-mishra-b47739279/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/shivam_mishra_munnu/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/Shivam_Mishra_14/" target="_blank">
@@ -47,25 +53,13 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🛠️ Tech Stack:
 
-#### 💻 Languages:
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,fastapi,django,flask,nodejs,mongodb,mysql,postgresql,tensorflow,pytorch,docker,aws&perline=8" />
 </p>
 
-#### ⚙️ Backend Development:
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs"/>
-</p>
+---
 
-#### 🗄️ Database:
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
-
-#### 🤖 Machine Learning:
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
+### 🤖 Machine Learning:
 
 **🔍 Algorithms I Work With:**
 - 📊 Linear Regression, Logistic Regression  
@@ -77,22 +71,17 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 - 🔥 Neural Networks (Deep Learning)  
 - 📝 Natural Language Processing (NLP)
 
-**📌 Real-World Focus:**
-- 🔮 Predictive Modeling  
-- 📊 Data Preprocessing & Feature Engineering  
-- 🤖 Model Deployment using FastAPI  
-
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivam-mishra1423&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-mishra1423&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-mishra1423&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-mishra1423&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-mishra1423&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-mishra1423&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -100,15 +89,12 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 ### 🔥 Activity Graph:
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-mishra1423&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-mishra1423&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
 
-### ☕ Support:
-
+<!-- Footer Wave -->
 <p align="center">
-<a href="https://www.buymeacoffee.com/shivam-mishra1423">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=100&section=footer"/>
 </p>
