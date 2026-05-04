@@ -1,28 +1,29 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | 🤖 Machine Learning Enthusiast <br>
-💻 DSA (C++) • Python • AI/ML <br>
-✨ Building Scalable & User-Friendly Applications
+🚀 Backend Developer | 🤖 Machine Learning Enthusiast <br>
+💻 DSA (C++) • Python • FastAPI • Django • Flask <br>
+⚡ Building Scalable APIs & Intelligent Systems
 </h3>
 
 ---
 
 <!-- Animated Typing Effect -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Machine+Learning+Enthusiast;DSA+%7C+Competitive+Programming;Building+Cool+Projects&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+APIs+%26+Scalable+Systems&center=true&width=500&height=50">
 </p>
 
 ---
 
 <img align="right" alt="coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech AIML Student  
-- 💡 Interested in **Frontend + AI/ML Integration**  
+- 💡 Focused on **Backend Development & AI/ML**  
+- ⚙️ Skilled in building **APIs using FastAPI, Django & Flask**  
 - 🔥 Strong in **DSA & Competitive Programming**  
-- 🚀 Building real-world scalable projects  
+- 🚀 Passionate about scalable backend systems  
 
 ---
 
@@ -48,23 +49,38 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 #### 💻 Languages:
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js"/>
 </p>
 
-#### 🌐 Frontend:
+#### ⚙️ Backend Development:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs"/>
 </p>
 
-#### ⚙️ Backend & Tools:
+#### 🗄️ Database:
 <p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,docker"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 </p>
 
 #### 🤖 Machine Learning:
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
+
+**🔍 Algorithms I Work With:**
+- 📊 Linear Regression, Logistic Regression  
+- 🌲 Decision Trees & Random Forest  
+- 🚀 Gradient Boosting (XGBoost, LightGBM)  
+- 🧠 Support Vector Machines (SVM)  
+- 🤖 K-Nearest Neighbors (KNN)  
+- 📉 K-Means Clustering  
+- 🔥 Neural Networks (Deep Learning)  
+- 📝 Natural Language Processing (NLP)
+
+**📌 Real-World Focus:**
+- 🔮 Predictive Modeling  
+- 📊 Data Preprocessing & Feature Engineering  
+- 🤖 Model Deployment using FastAPI  
 
 ---
 
