@@ -1,6 +1,6 @@
 <!-- Animated Name with Gradient -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivam+Mishra;Backend+Developer+🚀;Machine+Learning+Enthusiast+🤖;3+Years+C+++💪;2+Years+Python+🐍;2+Years+SQL+📊;DSA+Expert+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivam+Mishra;Backend+Developer+🚀;Machine+Learning+Enthusiast+🤖;3+Years+C++ 💪;2+Years+Python+🐍;2+Years+SQL+📊;DSA+Expert+🏆" />
 </h1>
 
 <!-- Visitor Counter -->
@@ -40,7 +40,7 @@
         <li>🔥 <b>3+ years experience in C++</b> (DSA & Competitive Programming)</li>
         <li>🐍 <b>2+ years experience in Python</b> (Backend & ML)</li>
         <li>📊 <b>2+ years experience in SQL</b> (Database Management)</li>
-        <li>🏆 <b>DSA Expert</b> - 1500+ problems solved across platforms</li>
+        <li>🏆 <b>DSA Expert</b> - 700+ problems solved across platforms</li>
         <li>🚀 Passionate about scalable backend systems</li>
       </ul>
     </td>
@@ -128,7 +128,7 @@
 </details>
 
 <details>
-<summary><b>🔷 LINKED LISTS (150+ Problems)</b></summary>
+<summary><b>🔷 LINKED LISTS (50+ Problems)</b></summary>
 <br>
 
 | Type | Operations |
@@ -142,7 +142,7 @@
 </details>
 
 <details>
-<summary><b>🔷 STACKS & QUEUES (170+ Problems)</b></summary>
+<summary><b>🔷 STACKS & QUEUES (70+ Problems)</b></summary>
 <br>
 
 - ✅ Balanced Parentheses
@@ -155,7 +155,7 @@
 </details>
 
 <details>
-<summary><b>🔷 TREES (200+ Problems)</b></summary>
+<summary><b>🔷 TREES (100+ Problems)</b></summary>
 <br>
 
 | Type | Problems |
@@ -168,7 +168,7 @@
 </details>
 
 <details>
-<summary><b>🔷 HEAPS & PRIORITY QUEUE (110+ Problems)</b></summary>
+<summary><b>🔷 HEAPS & PRIORITY QUEUE (100+ Problems)</b></summary>
 <br>
 
 - ✅ Heap Sort
@@ -180,7 +180,7 @@
 </details>
 
 <details>
-<summary><b>🔷 GRAPHS (200+ Problems)</b></summary>
+<summary><b>🔷 GRAPHS (100+ Problems)</b></summary>
 <br>
 
 | Algorithm | Use Case |
@@ -196,7 +196,7 @@
 </details>
 
 <details>
-<summary><b>🔷 DYNAMIC PROGRAMMING (250+ Problems)</b></summary>
+<summary><b>🔷 DYNAMIC PROGRAMMING (100+ Problems)</b></summary>
 <br>
 
 | Category | Problems |
@@ -211,7 +211,7 @@
 </details>
 
 <details>
-<summary><b>🔷 GREEDY ALGORITHMS (100+ Problems)</b></summary>
+<summary><b>🔷 GREEDY ALGORITHMS (70+ Problems)</b></summary>
 <br>
 
 - ✅ Activity Selection
@@ -224,7 +224,7 @@
 </details>
 
 <details>
-<summary><b>🔷 ADVANCED DATA STRUCTURES (150+ Problems)</b></summary>
+<summary><b>🔷 ADVANCED DATA STRUCTURES (70+ Problems)</b></summary>
 <br>
 
 | Data Structure | Applications |
@@ -246,13 +246,13 @@
 
 | Platform | Username | Problems Solved | Rating |
 |----------|----------|-----------------|--------|
-| **LeetCode** | Shivam_Mishra_14 | 500+ | 1600+ |
+| **LeetCode** | Shivam_Mishra_14 | 400+ | 1600+ |
 | **CodeChef** | shivam_mishra | 300+ | 3⭐ |
 | **GeeksforGeeks** | shivam_mishra14 | 400+ | - |
-| **HackerRank** | shivam_mishra | 250+ | 5⭐ (C++, Python) |
+| **HackerRank** | shivam_mishra | 50+ | 5⭐ (C++, Python) |
 | **Codeforces** | shivam_mishra | 150+ | 1100+ |
 
-**Total Problems Solved: 1600+**
+**Total Problems Solved: 700+**
 
 ---
 
