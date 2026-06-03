@@ -1,6 +1,6 @@
 <!-- Animated Name with Gradient -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivam+Mishra;Backend+Developer+🚀;Machine+Learning+Enthusiast+🤖;3+Years+C++ 💪;2+Years+Python+🐍;2+Years+SQL+📊;DSA+Expert+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivam+Mishra;Backend+Developer+🚀;Machine+Learning+Enthusiast+🤖;3+Years+C++ 💪;2+Years+Python+🐍;2+Years+SQL+📊;DSA+🏆" />
 </h1>
 
 <!-- Visitor Counter -->
