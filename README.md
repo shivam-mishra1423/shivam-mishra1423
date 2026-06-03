@@ -7,11 +7,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivam-mishra1423&style=for-the-badge&color=00F7FF" alt="Profile Views" />
   <img src="https://img.shields.io/badge/India-🇮🇳-orange?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/DSA-Expert-00F7FF?style=for-the-badge" alt="DSA Expert" />
+  <img src="https://img.shields.io/badge/DSA-Expert-00F7FF?style=for-the-badge" alt="DSA " />
 </p>
 
 <h3 align="center">
-🚀 Backend Developer | 🤖 Machine Learning Enthusiast | 📚 DSA Expert (C++) <br>
+🚀 Backend Developer | 🤖 Machine Learning Enthusiast | 📚 DSA  (C++) <br>
 💻 3+ Years C++ • 2+ Years Python • 2+ Years SQL <br>
 ⚡ Building Scalable APIs & Intelligent Systems
 </h3>
