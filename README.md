@@ -40,7 +40,7 @@
         <li>🔥 <b>3+ years experience in C++</b> (DSA & Competitive Programming)</li>
         <li>🐍 <b>2+ years experience in Python</b> (Backend & ML)</li>
         <li>📊 <b>2+ years experience in SQL</b> (Database Management)</li>
-        <li>🏆 <b>DSA Expert</b> - 700+ problems solved across platforms</li>
+        <li>🏆 <b>DSA</b> - 700+ problems solved across platforms</li>
         <li>🚀 Passionate about scalable backend systems</li>
       </ul>
     </td>
